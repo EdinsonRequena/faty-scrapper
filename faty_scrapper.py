@@ -10,7 +10,7 @@ class DataBot:
 	def scraper(self):
 		bot = self.bot
 		bot.get("http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx/")
-		field = bot.find_element_by_class_name("email-input")
+		field = bot.find_element_by_class_name("dx-texteditor-input")
 		field.clear()
 
 		field.send_keys(self.data)
