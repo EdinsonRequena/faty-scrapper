@@ -1,0 +1,131 @@
+1584645491836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebnekIe"
+
+(firefox-esr:10658): Gtk-WARNING **: 15:18:11.924: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584645499083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584645499083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584645499084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584645499084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:10757): Gtk-WARNING **: 15:18:23.603: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10774): Gtk-WARNING **: 15:18:24.604: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1584645516612	Marionette	INFO	Listening on port 33695
+1584645517069	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:10854): Gtk-WARNING **: 15:18:38.270: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: http://www.puertos.es/_layouts/15/init.js?rev=R500FBwHjH3TO5LeC6KbFQ%3D%3D, line 1: NS_ERROR_NOT_INITIALIZED: 
+1584645595501	Marionette	INFO	Stopped listening on port 33695
+1584645917454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejnVGIk"
+
+(firefox-esr:11261): Gtk-WARNING **: 15:25:17.533: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584645919668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584645919668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584645919669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584645919669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:11363): Gtk-WARNING **: 15:25:21.798: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11387): Gtk-WARNING **: 15:25:22.194: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:11439): Gtk-WARNING **: 15:25:25.488: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584645925793	Marionette	INFO	Listening on port 45431
+1584645925904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js, line 6: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584646141764	Marionette	INFO	Stopped listening on port 45431
+1584646587261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5urFgy"
+
+(firefox-esr:12076): Gtk-WARNING **: 15:36:27.327: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584646589472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584646589473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584646589476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584646589476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:12157): Gtk-WARNING **: 15:36:32.224: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12164): Gtk-WARNING **: 15:36:33.098: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1584646598453	Marionette	INFO	Listening on port 39129
+1584646598531	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:12233): Gtk-WARNING **: 15:36:39.036: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584646748908	Marionette	INFO	Stopped listening on port 39129
