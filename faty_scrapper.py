@@ -1,12 +1,20 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver 
+from selenium.webdriver.common.keys import Keys
 
-URL = 'http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx'
+class DataBot:
+	def __init__(self,data):
+		self.data = data
+		self.bot = webdriver.Firefox()
 
-headers = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0'}
 
-page = requests.get(URL, headers=headers)
+	def scraper(self):
+		bot = self.bot
+		bot.get("http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx/")
+		field = bot.find_element_by_class_name("email-input")
+		field.clear()
 
-soup = BeautifulSoup(page.content, 'html.parser')
+		field.send_keys(self.data)
 
-print(soup)
+if __name__ == '__main__':
+	ed = DataBot("valencia")
+	ed.scraper()
