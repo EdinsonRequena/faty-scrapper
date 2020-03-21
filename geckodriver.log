@@ -129,3 +129,628 @@ JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1584646748908	Marionette	INFO	Stopped listening on port 39129
+1584688546427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKdfjjj"
+
+(firefox-esr:13361): Gtk-WARNING **: 03:15:46.726: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584688573396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584688573401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584688573417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584688573418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:13531): Gtk-WARNING **: 03:16:31.305: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13537): Gtk-WARNING **: 03:16:31.305: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Exiting due to channel error.
+[Child 13531, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+
+(/usr/lib/firefox-esr/firefox-esr:13620): Gtk-WARNING **: 03:16:50.864: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[Child 13620, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Child 13620, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+1584688627388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13Z7BG"
+
+(firefox-esr:13679): Gtk-WARNING **: 03:17:07.474: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584688631771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584688631772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584688631773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584688631773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:13783): Gtk-WARNING **: 03:17:13.833: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13815): Gtk-WARNING **: 03:17:14.264: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1584688639722	Marionette	INFO	Listening on port 41961
+1584688639756	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:13865): Gtk-WARNING **: 03:17:25.292: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1584688708814	Marionette	INFO	Stopped listening on port 41961
+1584691920320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1df02O"
+
+(firefox-esr:16687): Gtk-WARNING **: 04:12:00.424: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584691926195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584691926196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584691926196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584691926197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:16785): Gtk-WARNING **: 04:12:09.771: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:16809): Gtk-WARNING **: 04:12:10.133: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:16860): Gtk-WARNING **: 04:12:14.937: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584691937194	Marionette	INFO	Listening on port 46349
+1584691937244	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://github.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://github.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 16687, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16687, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1584692114463	Marionette	INFO	Stopped listening on port 46349
+1584692143908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyfdgyt"
+
+(firefox-esr:17041): Gtk-WARNING **: 04:15:43.968: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584692147585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584692147585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584692147586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584692147586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:17119): Gtk-WARNING **: 04:15:50.094: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17151): Gtk-WARNING **: 04:15:50.455: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:17200): Gtk-WARNING **: 04:15:53.401: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584692153909	Marionette	INFO	Listening on port 46271
+1584692153953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://github.githubassets.com/assets/environment-bootstrap-e97a8eae.js, line 1: Error: could not resolve ./vendor.js
+
+(/usr/lib/firefox-esr/firefox-esr:17291): Gtk-WARNING **: 04:17:58.757: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584692340069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYFRCaI"
+
+(firefox-esr:17372): Gtk-WARNING **: 04:19:00.135: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584692341687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584692341688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584692341689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584692341689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:17450): Gtk-WARNING **: 04:19:02.954: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17474): Gtk-WARNING **: 04:19:03.288: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1584692346971	Marionette	INFO	Listening on port 33539
+1584692347002	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:17523): Gtk-WARNING **: 04:19:11.164: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 17041, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1584692456504	Marionette	INFO	Stopped listening on port 46271
+
+(/usr/lib/firefox-esr/firefox-esr:17640): Gtk-WARNING **: 04:21:30.891: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17676): Gtk-WARNING **: 04:21:44.650: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17715): Gtk-WARNING **: 04:22:05.588: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17768): Gtk-WARNING **: 04:22:15.579: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17805): Gtk-WARNING **: 04:22:34.851: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17832): Gtk-WARNING **: 04:22:38.445: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:17855): Gtk-WARNING **: 04:22:43.232: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[Parent 17372, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1584692569250	Marionette	INFO	Stopped listening on port 33539
+1584693106787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4jCdc0"
+
+(firefox-esr:18270): Gtk-WARNING **: 04:31:46.848: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693108973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693108973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693108974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693108975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:18349): Gtk-WARNING **: 04:31:50.372: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:18373): Gtk-WARNING **: 04:31:50.693: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:18423): Gtk-WARNING **: 04:31:53.882: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693114156	Marionette	INFO	Listening on port 45253
+1584693114228	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584693177045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAQY1vk"
+
+(firefox-esr:18523): Gtk-WARNING **: 04:32:57.105: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693178553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693178554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693178555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693178555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:18595): Gtk-WARNING **: 04:32:59.853: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:18619): Gtk-WARNING **: 04:33:00.169: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:18678): Gtk-WARNING **: 04:33:03.542: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693183694	Marionette	INFO	Listening on port 36037
+1584693183799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+
+(/usr/lib/firefox-esr/firefox-esr:18737): Gtk-WARNING **: 04:34:18.661: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693265736	Marionette	INFO	Stopped listening on port 36037
+1584693306580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei1XQFQ"
+
+(firefox-esr:18838): Gtk-WARNING **: 04:35:06.646: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693308399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693308400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693308400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693308401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:18909): Gtk-WARNING **: 04:35:09.869: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:18933): Gtk-WARNING **: 04:35:10.203: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:18984): Gtk-WARNING **: 04:35:13.342: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693313658	Marionette	INFO	Listening on port 36689
+1584693313729	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584693368241	Marionette	INFO	Stopped listening on port 36689
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584693448038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuoztVw"
+
+(firefox-esr:19088): Gtk-WARNING **: 04:37:28.099: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693449616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693449617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693449618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693449618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:19169): Gtk-WARNING **: 04:37:30.890: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:19193): Gtk-WARNING **: 04:37:31.224: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:19242): Gtk-WARNING **: 04:37:34.326: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693454588	Marionette	INFO	Listening on port 35347
+1584693454696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584693507326	Marionette	INFO	Stopped listening on port 35347
+1584693564829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYdrKgG"
+
+(firefox-esr:19423): Gtk-WARNING **: 04:39:24.906: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693566352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693566353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693566353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693566354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:19494): Gtk-WARNING **: 04:39:27.627: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:19518): Gtk-WARNING **: 04:39:27.965: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:19569): Gtk-WARNING **: 04:39:30.792: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693571389	Marionette	INFO	Listening on port 43785
+1584693571468	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:19617): Gtk-WARNING **: 04:40:30.732: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:19647): Gtk-WARNING **: 04:40:36.032: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693642420	Marionette	INFO	Stopped listening on port 43785
+1584693649618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC5es6k"
+
+(firefox-esr:19717): Gtk-WARNING **: 04:40:49.680: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693651128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693651128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693651129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693651129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:19791): Gtk-WARNING **: 04:40:52.443: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:19819): Gtk-WARNING **: 04:40:52.779: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:19867): Gtk-WARNING **: 04:40:55.713: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693656043	Marionette	INFO	Listening on port 42411
+1584693656159	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584693792804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMtHTzK"
+
+(firefox-esr:19988): Gtk-WARNING **: 04:43:12.878: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693794466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693794467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693794467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693794468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:20066): Gtk-WARNING **: 04:43:15.858: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:20090): Gtk-WARNING **: 04:43:16.187: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:20142): Gtk-WARNING **: 04:43:19.186: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693799478	Marionette	INFO	Listening on port 37313
+1584693799737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584693841143	Marionette	INFO	Stopped listening on port 37313
+1584693877493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq0u6Hh"
+
+(firefox-esr:20238): Gtk-WARNING **: 04:44:37.554: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693878966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693878966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693878967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693878967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:20309): Gtk-WARNING **: 04:44:40.244: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:20333): Gtk-WARNING **: 04:44:40.572: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:20387): Gtk-WARNING **: 04:44:43.622: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693883902	Marionette	INFO	Listening on port 35113
+1584693883949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584693919063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV7TVLb"
+
+(firefox-esr:20475): Gtk-WARNING **: 04:45:19.124: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693920767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584693920767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584693920768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584693920768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:20554): Gtk-WARNING **: 04:45:22.059: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:20579): Gtk-WARNING **: 04:45:22.391: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:20631): Gtk-WARNING **: 04:45:25.689: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584693926009	Marionette	INFO	Listening on port 43947
+1584693926108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584694096976	Marionette	INFO	Stopped listening on port 43947
+[Parent 20238, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1584694102872	Marionette	INFO	Stopped listening on port 35113
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1584694114187	Marionette	INFO	Stopped listening on port 45253
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584695093918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDJDEjP"
+
+(firefox-esr:21726): Gtk-WARNING **: 05:04:53.990: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695096243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584695096244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584695096245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584695096245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:21830): Gtk-WARNING **: 05:04:58.235: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:21854): Gtk-WARNING **: 05:04:58.648: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:21910): Gtk-WARNING **: 05:05:02.052: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695102337	Marionette	INFO	Listening on port 38659
+1584695102392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584695143032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7il5vH"
+
+(firefox-esr:22009): Gtk-WARNING **: 05:05:43.104: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695144739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584695144739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584695144740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584695144740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:22095): Gtk-WARNING **: 05:05:47.712: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:22090): Gtk-WARNING **: 05:05:47.713: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:22165): Gtk-WARNING **: 05:05:50.960: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695151261	Marionette	INFO	Listening on port 34497
+1584695151285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584695191399	Marionette	INFO	Stopped listening on port 34497
+1584695194883	Marionette	INFO	Stopped listening on port 38659
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://m.facebook.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+1584695532118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemBkcfP"
+
+(firefox-esr:22475): Gtk-WARNING **: 05:12:12.180: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695533873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584695533874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584695533875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584695533875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:22558): Gtk-WARNING **: 05:12:15.277: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:22582): Gtk-WARNING **: 05:12:15.625: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:22633): Gtk-WARNING **: 05:12:19.010: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695539368	Marionette	INFO	Listening on port 34585
+1584695539453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584695612297	Marionette	INFO	Stopped listening on port 34585
+1584695626175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWOLv9v"
+
+(firefox-esr:22779): Gtk-WARNING **: 05:13:46.249: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695627859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584695627860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584695627861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584695627861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox-esr/firefox-esr:22850): Gtk-WARNING **: 05:13:49.223: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:22874): Gtk-WARNING **: 05:13:49.616: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+
+(/usr/lib/firefox-esr/firefox-esr:22934): Gtk-WARNING **: 05:13:53.137: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1584695633477	Marionette	INFO	Listening on port 38629
+1584695633519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584695664902	Marionette	INFO	Stopped listening on port 38629
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 19717, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1584696671612	Marionette	INFO	Stopped listening on port 42411
